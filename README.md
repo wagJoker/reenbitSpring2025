@@ -199,6 +199,6 @@ This project is licensed under the MIT License.
 
 ---
 
-If you have any questions or need further setup help, please refer to the code comments or open an issue in the repository.
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/wagJoker/chatReenbit)
+<a href="https://netlif-1-l.com" target="_blank" rel="noopener noreferrer">
+  Visit the deployed project
+</a>
